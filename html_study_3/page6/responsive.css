@@ -1,0 +1,9 @@
+/* Untuk Tablets */
+
+/* Tambahkan breakpoint max-width: 1000px */
+@media (max-width: 1000px) {
+  /* Tambahkan CSS untuk lesson */
+  .lesson {
+    wi
+  }
+}
